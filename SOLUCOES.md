@@ -12,3 +12,4 @@
 # 12. cp /dev/null empty.txt
 # 13. cp hello.txt goodbye.txt
 # 14. mv goodbye.txt hello_copy.txt
+# 15. diff -s hello.txt hello_copy.txt
