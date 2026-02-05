@@ -22,3 +22,4 @@
 # 22. gcc compile_me.c -o compile_me && ./compile_me
 # 23. ./redirect > output.txt 2>&1
 # 24. date
+# 25. ps aux
