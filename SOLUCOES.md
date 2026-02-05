@@ -10,3 +10,4 @@
 # 10. rm empty.txt
 # 11. > empty.txt
 # 12. cp /dev/null empty.txt
+# 13. cp hello.txt goodbye.txt
