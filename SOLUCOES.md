@@ -17,3 +17,4 @@
 # 17. pwd
 # 18. ls -l
 # 19. chmod u+w restricted.txt; echo "Texto extra" >> restricted.txt
+# 20. ./hello_executable
