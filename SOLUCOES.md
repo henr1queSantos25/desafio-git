@@ -16,3 +16,4 @@
 # 16. cat hello.txt hello_copy.txt > 2_hellos.txt
 # 17. pwd
 # 18. ls -l
+# 19. chmod u+w restricted.txt; echo "Texto extra" >> restricted.txt
