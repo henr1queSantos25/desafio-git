@@ -13,3 +13,4 @@
 # 13. cp hello.txt goodbye.txt
 # 14. mv goodbye.txt hello_copy.txt
 # 15. diff -s hello.txt hello_copy.txt
+# 16. cat hello.txt hello_copy.txt > 2_hellos.txt
