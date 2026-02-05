@@ -9,3 +9,4 @@
 # 9. touch empty.txt
 # 10. rm empty.txt
 # 11. > empty.txt
+# 12. cp /dev/null empty.txt
