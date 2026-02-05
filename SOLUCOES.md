@@ -15,3 +15,4 @@
 # 15. diff -s hello.txt hello_copy.txt
 # 16. cat hello.txt hello_copy.txt > 2_hellos.txt
 # 17. pwd
+# 18. ls -l
